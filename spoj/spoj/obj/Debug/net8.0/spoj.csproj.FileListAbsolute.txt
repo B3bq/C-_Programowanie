@@ -1,0 +1,15 @@
+C:\Users\sebas\Documents\C# Programowanie\spoj\spoj\bin\Debug\net8.0\spoj.exe
+C:\Users\sebas\Documents\C# Programowanie\spoj\spoj\bin\Debug\net8.0\spoj.deps.json
+C:\Users\sebas\Documents\C# Programowanie\spoj\spoj\bin\Debug\net8.0\spoj.runtimeconfig.json
+C:\Users\sebas\Documents\C# Programowanie\spoj\spoj\bin\Debug\net8.0\spoj.dll
+C:\Users\sebas\Documents\C# Programowanie\spoj\spoj\bin\Debug\net8.0\spoj.pdb
+C:\Users\sebas\Documents\C# Programowanie\spoj\spoj\obj\Debug\net8.0\spoj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\Documents\C# Programowanie\spoj\spoj\obj\Debug\net8.0\spoj.AssemblyInfoInputs.cache
+C:\Users\sebas\Documents\C# Programowanie\spoj\spoj\obj\Debug\net8.0\spoj.AssemblyInfo.cs
+C:\Users\sebas\Documents\C# Programowanie\spoj\spoj\obj\Debug\net8.0\spoj.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Documents\C# Programowanie\spoj\spoj\obj\Debug\net8.0\spoj.sourcelink.json
+C:\Users\sebas\Documents\C# Programowanie\spoj\spoj\obj\Debug\net8.0\spoj.dll
+C:\Users\sebas\Documents\C# Programowanie\spoj\spoj\obj\Debug\net8.0\refint\spoj.dll
+C:\Users\sebas\Documents\C# Programowanie\spoj\spoj\obj\Debug\net8.0\spoj.pdb
+C:\Users\sebas\Documents\C# Programowanie\spoj\spoj\obj\Debug\net8.0\spoj.genruntimeconfig.cache
+C:\Users\sebas\Documents\C# Programowanie\spoj\spoj\obj\Debug\net8.0\ref\spoj.dll
