@@ -1,0 +1,14 @@
+C:\Users\sebas\Documents\C# Programowanie\function\unityConverter\bin\Debug\net8.0\unityConverter.exe
+C:\Users\sebas\Documents\C# Programowanie\function\unityConverter\bin\Debug\net8.0\unityConverter.deps.json
+C:\Users\sebas\Documents\C# Programowanie\function\unityConverter\bin\Debug\net8.0\unityConverter.runtimeconfig.json
+C:\Users\sebas\Documents\C# Programowanie\function\unityConverter\bin\Debug\net8.0\unityConverter.dll
+C:\Users\sebas\Documents\C# Programowanie\function\unityConverter\bin\Debug\net8.0\unityConverter.pdb
+C:\Users\sebas\Documents\C# Programowanie\function\unityConverter\obj\Debug\net8.0\unityConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\Documents\C# Programowanie\function\unityConverter\obj\Debug\net8.0\unityConverter.AssemblyInfoInputs.cache
+C:\Users\sebas\Documents\C# Programowanie\function\unityConverter\obj\Debug\net8.0\unityConverter.AssemblyInfo.cs
+C:\Users\sebas\Documents\C# Programowanie\function\unityConverter\obj\Debug\net8.0\unityConverter.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Documents\C# Programowanie\function\unityConverter\obj\Debug\net8.0\unityConverter.dll
+C:\Users\sebas\Documents\C# Programowanie\function\unityConverter\obj\Debug\net8.0\refint\unityConverter.dll
+C:\Users\sebas\Documents\C# Programowanie\function\unityConverter\obj\Debug\net8.0\unityConverter.pdb
+C:\Users\sebas\Documents\C# Programowanie\function\unityConverter\obj\Debug\net8.0\unityConverter.genruntimeconfig.cache
+C:\Users\sebas\Documents\C# Programowanie\function\unityConverter\obj\Debug\net8.0\ref\unityConverter.dll

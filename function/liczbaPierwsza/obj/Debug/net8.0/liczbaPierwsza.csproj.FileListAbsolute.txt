@@ -1,0 +1,14 @@
+C:\Users\sebas\Documents\C# Programowanie\function\liczbaPierwsza\bin\Debug\net8.0\liczbaPierwsza.exe
+C:\Users\sebas\Documents\C# Programowanie\function\liczbaPierwsza\bin\Debug\net8.0\liczbaPierwsza.deps.json
+C:\Users\sebas\Documents\C# Programowanie\function\liczbaPierwsza\bin\Debug\net8.0\liczbaPierwsza.runtimeconfig.json
+C:\Users\sebas\Documents\C# Programowanie\function\liczbaPierwsza\bin\Debug\net8.0\liczbaPierwsza.dll
+C:\Users\sebas\Documents\C# Programowanie\function\liczbaPierwsza\bin\Debug\net8.0\liczbaPierwsza.pdb
+C:\Users\sebas\Documents\C# Programowanie\function\liczbaPierwsza\obj\Debug\net8.0\liczbaPierwsza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\Documents\C# Programowanie\function\liczbaPierwsza\obj\Debug\net8.0\liczbaPierwsza.AssemblyInfoInputs.cache
+C:\Users\sebas\Documents\C# Programowanie\function\liczbaPierwsza\obj\Debug\net8.0\liczbaPierwsza.AssemblyInfo.cs
+C:\Users\sebas\Documents\C# Programowanie\function\liczbaPierwsza\obj\Debug\net8.0\liczbaPierwsza.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Documents\C# Programowanie\function\liczbaPierwsza\obj\Debug\net8.0\liczbaPierwsza.dll
+C:\Users\sebas\Documents\C# Programowanie\function\liczbaPierwsza\obj\Debug\net8.0\refint\liczbaPierwsza.dll
+C:\Users\sebas\Documents\C# Programowanie\function\liczbaPierwsza\obj\Debug\net8.0\liczbaPierwsza.pdb
+C:\Users\sebas\Documents\C# Programowanie\function\liczbaPierwsza\obj\Debug\net8.0\liczbaPierwsza.genruntimeconfig.cache
+C:\Users\sebas\Documents\C# Programowanie\function\liczbaPierwsza\obj\Debug\net8.0\ref\liczbaPierwsza.dll
