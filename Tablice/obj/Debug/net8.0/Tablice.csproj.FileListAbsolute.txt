@@ -1,0 +1,15 @@
+C:\Users\sebas\Documents\C# Programowanie\Tablice\bin\Debug\net8.0\Tablice.exe
+C:\Users\sebas\Documents\C# Programowanie\Tablice\bin\Debug\net8.0\Tablice.deps.json
+C:\Users\sebas\Documents\C# Programowanie\Tablice\bin\Debug\net8.0\Tablice.runtimeconfig.json
+C:\Users\sebas\Documents\C# Programowanie\Tablice\bin\Debug\net8.0\Tablice.dll
+C:\Users\sebas\Documents\C# Programowanie\Tablice\bin\Debug\net8.0\Tablice.pdb
+C:\Users\sebas\Documents\C# Programowanie\Tablice\obj\Debug\net8.0\Tablice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\Documents\C# Programowanie\Tablice\obj\Debug\net8.0\Tablice.AssemblyInfoInputs.cache
+C:\Users\sebas\Documents\C# Programowanie\Tablice\obj\Debug\net8.0\Tablice.AssemblyInfo.cs
+C:\Users\sebas\Documents\C# Programowanie\Tablice\obj\Debug\net8.0\Tablice.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Documents\C# Programowanie\Tablice\obj\Debug\net8.0\Tablice.sourcelink.json
+C:\Users\sebas\Documents\C# Programowanie\Tablice\obj\Debug\net8.0\Tablice.dll
+C:\Users\sebas\Documents\C# Programowanie\Tablice\obj\Debug\net8.0\refint\Tablice.dll
+C:\Users\sebas\Documents\C# Programowanie\Tablice\obj\Debug\net8.0\Tablice.pdb
+C:\Users\sebas\Documents\C# Programowanie\Tablice\obj\Debug\net8.0\Tablice.genruntimeconfig.cache
+C:\Users\sebas\Documents\C# Programowanie\Tablice\obj\Debug\net8.0\ref\Tablice.dll

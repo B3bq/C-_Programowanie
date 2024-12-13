@@ -1,0 +1,15 @@
+C:\Users\sebas\Documents\C# Programowanie\lottoFullSymulation\bin\Debug\net8.0\LottoFullSimulation.exe
+C:\Users\sebas\Documents\C# Programowanie\lottoFullSymulation\bin\Debug\net8.0\LottoFullSimulation.deps.json
+C:\Users\sebas\Documents\C# Programowanie\lottoFullSymulation\bin\Debug\net8.0\LottoFullSimulation.runtimeconfig.json
+C:\Users\sebas\Documents\C# Programowanie\lottoFullSymulation\bin\Debug\net8.0\LottoFullSimulation.dll
+C:\Users\sebas\Documents\C# Programowanie\lottoFullSymulation\bin\Debug\net8.0\LottoFullSimulation.pdb
+C:\Users\sebas\Documents\C# Programowanie\lottoFullSymulation\obj\Debug\net8.0\LottoFullSimulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\Documents\C# Programowanie\lottoFullSymulation\obj\Debug\net8.0\LottoFullSimulation.AssemblyInfoInputs.cache
+C:\Users\sebas\Documents\C# Programowanie\lottoFullSymulation\obj\Debug\net8.0\LottoFullSimulation.AssemblyInfo.cs
+C:\Users\sebas\Documents\C# Programowanie\lottoFullSymulation\obj\Debug\net8.0\LottoFullSimulation.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Documents\C# Programowanie\lottoFullSymulation\obj\Debug\net8.0\LottoFullSimulation.sourcelink.json
+C:\Users\sebas\Documents\C# Programowanie\lottoFullSymulation\obj\Debug\net8.0\LottoFullSimulation.dll
+C:\Users\sebas\Documents\C# Programowanie\lottoFullSymulation\obj\Debug\net8.0\refint\LottoFullSimulation.dll
+C:\Users\sebas\Documents\C# Programowanie\lottoFullSymulation\obj\Debug\net8.0\LottoFullSimulation.pdb
+C:\Users\sebas\Documents\C# Programowanie\lottoFullSymulation\obj\Debug\net8.0\LottoFullSimulation.genruntimeconfig.cache
+C:\Users\sebas\Documents\C# Programowanie\lottoFullSymulation\obj\Debug\net8.0\ref\LottoFullSimulation.dll
