@@ -1,0 +1,15 @@
+C:\Users\sebas\Documents\C# Programowanie\NWW_NWD\bin\Debug\net8.0\NWW_NWD.exe
+C:\Users\sebas\Documents\C# Programowanie\NWW_NWD\bin\Debug\net8.0\NWW_NWD.deps.json
+C:\Users\sebas\Documents\C# Programowanie\NWW_NWD\bin\Debug\net8.0\NWW_NWD.runtimeconfig.json
+C:\Users\sebas\Documents\C# Programowanie\NWW_NWD\bin\Debug\net8.0\NWW_NWD.dll
+C:\Users\sebas\Documents\C# Programowanie\NWW_NWD\bin\Debug\net8.0\NWW_NWD.pdb
+C:\Users\sebas\Documents\C# Programowanie\NWW_NWD\obj\Debug\net8.0\NWW_NWD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\Documents\C# Programowanie\NWW_NWD\obj\Debug\net8.0\NWW_NWD.AssemblyInfoInputs.cache
+C:\Users\sebas\Documents\C# Programowanie\NWW_NWD\obj\Debug\net8.0\NWW_NWD.AssemblyInfo.cs
+C:\Users\sebas\Documents\C# Programowanie\NWW_NWD\obj\Debug\net8.0\NWW_NWD.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Documents\C# Programowanie\NWW_NWD\obj\Debug\net8.0\NWW_NWD.sourcelink.json
+C:\Users\sebas\Documents\C# Programowanie\NWW_NWD\obj\Debug\net8.0\NWW_NWD.dll
+C:\Users\sebas\Documents\C# Programowanie\NWW_NWD\obj\Debug\net8.0\refint\NWW_NWD.dll
+C:\Users\sebas\Documents\C# Programowanie\NWW_NWD\obj\Debug\net8.0\NWW_NWD.pdb
+C:\Users\sebas\Documents\C# Programowanie\NWW_NWD\obj\Debug\net8.0\NWW_NWD.genruntimeconfig.cache
+C:\Users\sebas\Documents\C# Programowanie\NWW_NWD\obj\Debug\net8.0\ref\NWW_NWD.dll
