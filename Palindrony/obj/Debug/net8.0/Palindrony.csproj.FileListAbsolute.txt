@@ -1,0 +1,14 @@
+C:\Users\st501\Documents\SK\Palindrony\bin\Debug\net8.0\Palindrony.exe
+C:\Users\st501\Documents\SK\Palindrony\bin\Debug\net8.0\Palindrony.deps.json
+C:\Users\st501\Documents\SK\Palindrony\bin\Debug\net8.0\Palindrony.runtimeconfig.json
+C:\Users\st501\Documents\SK\Palindrony\bin\Debug\net8.0\Palindrony.dll
+C:\Users\st501\Documents\SK\Palindrony\bin\Debug\net8.0\Palindrony.pdb
+C:\Users\st501\Documents\SK\Palindrony\obj\Debug\net8.0\Palindrony.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\st501\Documents\SK\Palindrony\obj\Debug\net8.0\Palindrony.AssemblyInfoInputs.cache
+C:\Users\st501\Documents\SK\Palindrony\obj\Debug\net8.0\Palindrony.AssemblyInfo.cs
+C:\Users\st501\Documents\SK\Palindrony\obj\Debug\net8.0\Palindrony.csproj.CoreCompileInputs.cache
+C:\Users\st501\Documents\SK\Palindrony\obj\Debug\net8.0\Palindrony.dll
+C:\Users\st501\Documents\SK\Palindrony\obj\Debug\net8.0\refint\Palindrony.dll
+C:\Users\st501\Documents\SK\Palindrony\obj\Debug\net8.0\Palindrony.pdb
+C:\Users\st501\Documents\SK\Palindrony\obj\Debug\net8.0\Palindrony.genruntimeconfig.cache
+C:\Users\st501\Documents\SK\Palindrony\obj\Debug\net8.0\ref\Palindrony.dll

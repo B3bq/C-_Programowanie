@@ -1,0 +1,14 @@
+C:\Users\st501\Documents\SK\Flamaster\bin\Debug\net8.0\Flamaster.exe
+C:\Users\st501\Documents\SK\Flamaster\bin\Debug\net8.0\Flamaster.deps.json
+C:\Users\st501\Documents\SK\Flamaster\bin\Debug\net8.0\Flamaster.runtimeconfig.json
+C:\Users\st501\Documents\SK\Flamaster\bin\Debug\net8.0\Flamaster.dll
+C:\Users\st501\Documents\SK\Flamaster\bin\Debug\net8.0\Flamaster.pdb
+C:\Users\st501\Documents\SK\Flamaster\obj\Debug\net8.0\Flamaster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\st501\Documents\SK\Flamaster\obj\Debug\net8.0\Flamaster.AssemblyInfoInputs.cache
+C:\Users\st501\Documents\SK\Flamaster\obj\Debug\net8.0\Flamaster.AssemblyInfo.cs
+C:\Users\st501\Documents\SK\Flamaster\obj\Debug\net8.0\Flamaster.csproj.CoreCompileInputs.cache
+C:\Users\st501\Documents\SK\Flamaster\obj\Debug\net8.0\Flamaster.dll
+C:\Users\st501\Documents\SK\Flamaster\obj\Debug\net8.0\refint\Flamaster.dll
+C:\Users\st501\Documents\SK\Flamaster\obj\Debug\net8.0\Flamaster.pdb
+C:\Users\st501\Documents\SK\Flamaster\obj\Debug\net8.0\Flamaster.genruntimeconfig.cache
+C:\Users\st501\Documents\SK\Flamaster\obj\Debug\net8.0\ref\Flamaster.dll

@@ -1,0 +1,14 @@
+C:\Users\st501\Documents\SK\Cezar\bin\Debug\net8.0\Cezar.exe
+C:\Users\st501\Documents\SK\Cezar\bin\Debug\net8.0\Cezar.deps.json
+C:\Users\st501\Documents\SK\Cezar\bin\Debug\net8.0\Cezar.runtimeconfig.json
+C:\Users\st501\Documents\SK\Cezar\bin\Debug\net8.0\Cezar.dll
+C:\Users\st501\Documents\SK\Cezar\bin\Debug\net8.0\Cezar.pdb
+C:\Users\st501\Documents\SK\Cezar\obj\Debug\net8.0\Cezar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\st501\Documents\SK\Cezar\obj\Debug\net8.0\Cezar.AssemblyInfoInputs.cache
+C:\Users\st501\Documents\SK\Cezar\obj\Debug\net8.0\Cezar.AssemblyInfo.cs
+C:\Users\st501\Documents\SK\Cezar\obj\Debug\net8.0\Cezar.csproj.CoreCompileInputs.cache
+C:\Users\st501\Documents\SK\Cezar\obj\Debug\net8.0\Cezar.dll
+C:\Users\st501\Documents\SK\Cezar\obj\Debug\net8.0\refint\Cezar.dll
+C:\Users\st501\Documents\SK\Cezar\obj\Debug\net8.0\Cezar.pdb
+C:\Users\st501\Documents\SK\Cezar\obj\Debug\net8.0\Cezar.genruntimeconfig.cache
+C:\Users\st501\Documents\SK\Cezar\obj\Debug\net8.0\ref\Cezar.dll
