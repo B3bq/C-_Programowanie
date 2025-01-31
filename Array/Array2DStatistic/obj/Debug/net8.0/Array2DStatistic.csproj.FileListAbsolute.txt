@@ -1,0 +1,15 @@
+C:\Users\sebas\Documents\C# Programowanie\Array2DStatistic\bin\Debug\net8.0\Array2DStatistic.exe
+C:\Users\sebas\Documents\C# Programowanie\Array2DStatistic\bin\Debug\net8.0\Array2DStatistic.deps.json
+C:\Users\sebas\Documents\C# Programowanie\Array2DStatistic\bin\Debug\net8.0\Array2DStatistic.runtimeconfig.json
+C:\Users\sebas\Documents\C# Programowanie\Array2DStatistic\bin\Debug\net8.0\Array2DStatistic.dll
+C:\Users\sebas\Documents\C# Programowanie\Array2DStatistic\bin\Debug\net8.0\Array2DStatistic.pdb
+C:\Users\sebas\Documents\C# Programowanie\Array2DStatistic\obj\Debug\net8.0\Array2DStatistic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\Documents\C# Programowanie\Array2DStatistic\obj\Debug\net8.0\Array2DStatistic.AssemblyInfoInputs.cache
+C:\Users\sebas\Documents\C# Programowanie\Array2DStatistic\obj\Debug\net8.0\Array2DStatistic.AssemblyInfo.cs
+C:\Users\sebas\Documents\C# Programowanie\Array2DStatistic\obj\Debug\net8.0\Array2DStatistic.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Documents\C# Programowanie\Array2DStatistic\obj\Debug\net8.0\Array2DStatistic.sourcelink.json
+C:\Users\sebas\Documents\C# Programowanie\Array2DStatistic\obj\Debug\net8.0\Array2DStatistic.dll
+C:\Users\sebas\Documents\C# Programowanie\Array2DStatistic\obj\Debug\net8.0\refint\Array2DStatistic.dll
+C:\Users\sebas\Documents\C# Programowanie\Array2DStatistic\obj\Debug\net8.0\Array2DStatistic.pdb
+C:\Users\sebas\Documents\C# Programowanie\Array2DStatistic\obj\Debug\net8.0\Array2DStatistic.genruntimeconfig.cache
+C:\Users\sebas\Documents\C# Programowanie\Array2DStatistic\obj\Debug\net8.0\ref\Array2DStatistic.dll

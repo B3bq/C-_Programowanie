@@ -1,0 +1,15 @@
+C:\Users\sebas\Documents\C# Programowanie\Array2DBasic\bin\Debug\net8.0\Array2DBasic.exe
+C:\Users\sebas\Documents\C# Programowanie\Array2DBasic\bin\Debug\net8.0\Array2DBasic.deps.json
+C:\Users\sebas\Documents\C# Programowanie\Array2DBasic\bin\Debug\net8.0\Array2DBasic.runtimeconfig.json
+C:\Users\sebas\Documents\C# Programowanie\Array2DBasic\bin\Debug\net8.0\Array2DBasic.dll
+C:\Users\sebas\Documents\C# Programowanie\Array2DBasic\bin\Debug\net8.0\Array2DBasic.pdb
+C:\Users\sebas\Documents\C# Programowanie\Array2DBasic\obj\Debug\net8.0\Array2DBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\Documents\C# Programowanie\Array2DBasic\obj\Debug\net8.0\Array2DBasic.AssemblyInfoInputs.cache
+C:\Users\sebas\Documents\C# Programowanie\Array2DBasic\obj\Debug\net8.0\Array2DBasic.AssemblyInfo.cs
+C:\Users\sebas\Documents\C# Programowanie\Array2DBasic\obj\Debug\net8.0\Array2DBasic.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Documents\C# Programowanie\Array2DBasic\obj\Debug\net8.0\Array2DBasic.sourcelink.json
+C:\Users\sebas\Documents\C# Programowanie\Array2DBasic\obj\Debug\net8.0\Array2DBasic.dll
+C:\Users\sebas\Documents\C# Programowanie\Array2DBasic\obj\Debug\net8.0\refint\Array2DBasic.dll
+C:\Users\sebas\Documents\C# Programowanie\Array2DBasic\obj\Debug\net8.0\Array2DBasic.pdb
+C:\Users\sebas\Documents\C# Programowanie\Array2DBasic\obj\Debug\net8.0\Array2DBasic.genruntimeconfig.cache
+C:\Users\sebas\Documents\C# Programowanie\Array2DBasic\obj\Debug\net8.0\ref\Array2DBasic.dll
