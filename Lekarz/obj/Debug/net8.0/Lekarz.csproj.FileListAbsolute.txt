@@ -1,0 +1,14 @@
+C:\Users\st501\Documents\SK\Lekarz\bin\Debug\net8.0\Lekarz.exe
+C:\Users\st501\Documents\SK\Lekarz\bin\Debug\net8.0\Lekarz.deps.json
+C:\Users\st501\Documents\SK\Lekarz\bin\Debug\net8.0\Lekarz.runtimeconfig.json
+C:\Users\st501\Documents\SK\Lekarz\bin\Debug\net8.0\Lekarz.dll
+C:\Users\st501\Documents\SK\Lekarz\bin\Debug\net8.0\Lekarz.pdb
+C:\Users\st501\Documents\SK\Lekarz\obj\Debug\net8.0\Lekarz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\st501\Documents\SK\Lekarz\obj\Debug\net8.0\Lekarz.AssemblyInfoInputs.cache
+C:\Users\st501\Documents\SK\Lekarz\obj\Debug\net8.0\Lekarz.AssemblyInfo.cs
+C:\Users\st501\Documents\SK\Lekarz\obj\Debug\net8.0\Lekarz.csproj.CoreCompileInputs.cache
+C:\Users\st501\Documents\SK\Lekarz\obj\Debug\net8.0\Lekarz.dll
+C:\Users\st501\Documents\SK\Lekarz\obj\Debug\net8.0\refint\Lekarz.dll
+C:\Users\st501\Documents\SK\Lekarz\obj\Debug\net8.0\Lekarz.pdb
+C:\Users\st501\Documents\SK\Lekarz\obj\Debug\net8.0\Lekarz.genruntimeconfig.cache
+C:\Users\st501\Documents\SK\Lekarz\obj\Debug\net8.0\ref\Lekarz.dll

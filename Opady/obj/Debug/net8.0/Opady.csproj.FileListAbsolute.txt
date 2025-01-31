@@ -1,0 +1,14 @@
+C:\Users\st501\Documents\SK\Opady\bin\Debug\net8.0\Opady.exe
+C:\Users\st501\Documents\SK\Opady\bin\Debug\net8.0\Opady.deps.json
+C:\Users\st501\Documents\SK\Opady\bin\Debug\net8.0\Opady.runtimeconfig.json
+C:\Users\st501\Documents\SK\Opady\bin\Debug\net8.0\Opady.dll
+C:\Users\st501\Documents\SK\Opady\bin\Debug\net8.0\Opady.pdb
+C:\Users\st501\Documents\SK\Opady\obj\Debug\net8.0\Opady.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\st501\Documents\SK\Opady\obj\Debug\net8.0\Opady.AssemblyInfoInputs.cache
+C:\Users\st501\Documents\SK\Opady\obj\Debug\net8.0\Opady.AssemblyInfo.cs
+C:\Users\st501\Documents\SK\Opady\obj\Debug\net8.0\Opady.csproj.CoreCompileInputs.cache
+C:\Users\st501\Documents\SK\Opady\obj\Debug\net8.0\Opady.dll
+C:\Users\st501\Documents\SK\Opady\obj\Debug\net8.0\refint\Opady.dll
+C:\Users\st501\Documents\SK\Opady\obj\Debug\net8.0\Opady.pdb
+C:\Users\st501\Documents\SK\Opady\obj\Debug\net8.0\Opady.genruntimeconfig.cache
+C:\Users\st501\Documents\SK\Opady\obj\Debug\net8.0\ref\Opady.dll
