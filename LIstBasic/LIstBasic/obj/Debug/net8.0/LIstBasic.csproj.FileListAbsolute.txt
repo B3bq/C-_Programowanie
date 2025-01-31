@@ -1,0 +1,14 @@
+C:\Users\sebas\source\repos\LIstBasic\LIstBasic\bin\Debug\net8.0\LIstBasic.exe
+C:\Users\sebas\source\repos\LIstBasic\LIstBasic\bin\Debug\net8.0\LIstBasic.deps.json
+C:\Users\sebas\source\repos\LIstBasic\LIstBasic\bin\Debug\net8.0\LIstBasic.runtimeconfig.json
+C:\Users\sebas\source\repos\LIstBasic\LIstBasic\bin\Debug\net8.0\LIstBasic.dll
+C:\Users\sebas\source\repos\LIstBasic\LIstBasic\bin\Debug\net8.0\LIstBasic.pdb
+C:\Users\sebas\source\repos\LIstBasic\LIstBasic\obj\Debug\net8.0\LIstBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\source\repos\LIstBasic\LIstBasic\obj\Debug\net8.0\LIstBasic.AssemblyInfoInputs.cache
+C:\Users\sebas\source\repos\LIstBasic\LIstBasic\obj\Debug\net8.0\LIstBasic.AssemblyInfo.cs
+C:\Users\sebas\source\repos\LIstBasic\LIstBasic\obj\Debug\net8.0\LIstBasic.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\LIstBasic\LIstBasic\obj\Debug\net8.0\LIstBasic.dll
+C:\Users\sebas\source\repos\LIstBasic\LIstBasic\obj\Debug\net8.0\refint\LIstBasic.dll
+C:\Users\sebas\source\repos\LIstBasic\LIstBasic\obj\Debug\net8.0\LIstBasic.pdb
+C:\Users\sebas\source\repos\LIstBasic\LIstBasic\obj\Debug\net8.0\LIstBasic.genruntimeconfig.cache
+C:\Users\sebas\source\repos\LIstBasic\LIstBasic\obj\Debug\net8.0\ref\LIstBasic.dll

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LIstBasic", "LIstBasic\LIstBasic.csproj", "{A1A29ABF-276E-4552-BFA5-C948F4A0B1D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpperCaseWord", "UpperCaseWord\UpperCaseWord.csproj", "{4AC92BC5-7857-479F-A5F6-45BFB85C3435}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TODOlist", "TODOlist\TODOlist.csproj", "{FAA21A63-1A2A-48B6-913E-26B89AC05E55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1A29ABF-276E-4552-BFA5-C948F4A0B1D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1A29ABF-276E-4552-BFA5-C948F4A0B1D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1A29ABF-276E-4552-BFA5-C948F4A0B1D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1A29ABF-276E-4552-BFA5-C948F4A0B1D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AC92BC5-7857-479F-A5F6-45BFB85C3435}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AC92BC5-7857-479F-A5F6-45BFB85C3435}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AC92BC5-7857-479F-A5F6-45BFB85C3435}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AC92BC5-7857-479F-A5F6-45BFB85C3435}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAA21A63-1A2A-48B6-913E-26B89AC05E55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAA21A63-1A2A-48B6-913E-26B89AC05E55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAA21A63-1A2A-48B6-913E-26B89AC05E55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAA21A63-1A2A-48B6-913E-26B89AC05E55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

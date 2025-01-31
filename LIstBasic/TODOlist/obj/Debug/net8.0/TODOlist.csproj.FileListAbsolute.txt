@@ -1,0 +1,14 @@
+C:\Users\sebas\source\repos\LIstBasic\TODOlist\obj\Debug\net8.0\TODOlist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\source\repos\LIstBasic\TODOlist\obj\Debug\net8.0\TODOlist.AssemblyInfoInputs.cache
+C:\Users\sebas\source\repos\LIstBasic\TODOlist\obj\Debug\net8.0\TODOlist.AssemblyInfo.cs
+C:\Users\sebas\source\repos\LIstBasic\TODOlist\obj\Debug\net8.0\TODOlist.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\LIstBasic\TODOlist\bin\Debug\net8.0\TODOlist.exe
+C:\Users\sebas\source\repos\LIstBasic\TODOlist\bin\Debug\net8.0\TODOlist.deps.json
+C:\Users\sebas\source\repos\LIstBasic\TODOlist\bin\Debug\net8.0\TODOlist.runtimeconfig.json
+C:\Users\sebas\source\repos\LIstBasic\TODOlist\bin\Debug\net8.0\TODOlist.dll
+C:\Users\sebas\source\repos\LIstBasic\TODOlist\bin\Debug\net8.0\TODOlist.pdb
+C:\Users\sebas\source\repos\LIstBasic\TODOlist\obj\Debug\net8.0\TODOlist.dll
+C:\Users\sebas\source\repos\LIstBasic\TODOlist\obj\Debug\net8.0\refint\TODOlist.dll
+C:\Users\sebas\source\repos\LIstBasic\TODOlist\obj\Debug\net8.0\TODOlist.pdb
+C:\Users\sebas\source\repos\LIstBasic\TODOlist\obj\Debug\net8.0\TODOlist.genruntimeconfig.cache
+C:\Users\sebas\source\repos\LIstBasic\TODOlist\obj\Debug\net8.0\ref\TODOlist.dll

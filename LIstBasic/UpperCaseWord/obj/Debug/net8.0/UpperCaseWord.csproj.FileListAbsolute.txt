@@ -1,0 +1,14 @@
+C:\Users\sebas\source\repos\LIstBasic\UpperCaseWord\bin\Debug\net8.0\UpperCaseWord.exe
+C:\Users\sebas\source\repos\LIstBasic\UpperCaseWord\bin\Debug\net8.0\UpperCaseWord.deps.json
+C:\Users\sebas\source\repos\LIstBasic\UpperCaseWord\bin\Debug\net8.0\UpperCaseWord.runtimeconfig.json
+C:\Users\sebas\source\repos\LIstBasic\UpperCaseWord\bin\Debug\net8.0\UpperCaseWord.dll
+C:\Users\sebas\source\repos\LIstBasic\UpperCaseWord\bin\Debug\net8.0\UpperCaseWord.pdb
+C:\Users\sebas\source\repos\LIstBasic\UpperCaseWord\obj\Debug\net8.0\UpperCaseWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\source\repos\LIstBasic\UpperCaseWord\obj\Debug\net8.0\UpperCaseWord.AssemblyInfoInputs.cache
+C:\Users\sebas\source\repos\LIstBasic\UpperCaseWord\obj\Debug\net8.0\UpperCaseWord.AssemblyInfo.cs
+C:\Users\sebas\source\repos\LIstBasic\UpperCaseWord\obj\Debug\net8.0\UpperCaseWord.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\LIstBasic\UpperCaseWord\obj\Debug\net8.0\UpperCaseWord.dll
+C:\Users\sebas\source\repos\LIstBasic\UpperCaseWord\obj\Debug\net8.0\refint\UpperCaseWord.dll
+C:\Users\sebas\source\repos\LIstBasic\UpperCaseWord\obj\Debug\net8.0\UpperCaseWord.pdb
+C:\Users\sebas\source\repos\LIstBasic\UpperCaseWord\obj\Debug\net8.0\UpperCaseWord.genruntimeconfig.cache
+C:\Users\sebas\source\repos\LIstBasic\UpperCaseWord\obj\Debug\net8.0\ref\UpperCaseWord.dll
