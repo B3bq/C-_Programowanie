@@ -1,0 +1,14 @@
+G:\Kolo2\Ciag\bin\Debug\net8.0\Ciag.exe
+G:\Kolo2\Ciag\bin\Debug\net8.0\Ciag.deps.json
+G:\Kolo2\Ciag\bin\Debug\net8.0\Ciag.runtimeconfig.json
+G:\Kolo2\Ciag\bin\Debug\net8.0\Ciag.dll
+G:\Kolo2\Ciag\bin\Debug\net8.0\Ciag.pdb
+G:\Kolo2\Ciag\obj\Debug\net8.0\Ciag.GeneratedMSBuildEditorConfig.editorconfig
+G:\Kolo2\Ciag\obj\Debug\net8.0\Ciag.AssemblyInfoInputs.cache
+G:\Kolo2\Ciag\obj\Debug\net8.0\Ciag.AssemblyInfo.cs
+G:\Kolo2\Ciag\obj\Debug\net8.0\Ciag.csproj.CoreCompileInputs.cache
+G:\Kolo2\Ciag\obj\Debug\net8.0\Ciag.dll
+G:\Kolo2\Ciag\obj\Debug\net8.0\refint\Ciag.dll
+G:\Kolo2\Ciag\obj\Debug\net8.0\Ciag.pdb
+G:\Kolo2\Ciag\obj\Debug\net8.0\Ciag.genruntimeconfig.cache
+G:\Kolo2\Ciag\obj\Debug\net8.0\ref\Ciag.dll

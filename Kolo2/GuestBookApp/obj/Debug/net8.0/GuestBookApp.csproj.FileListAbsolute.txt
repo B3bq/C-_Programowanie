@@ -1,0 +1,14 @@
+G:\Kolo2\GuestBookApp\bin\Debug\net8.0\GuestBookApp.exe
+G:\Kolo2\GuestBookApp\bin\Debug\net8.0\GuestBookApp.deps.json
+G:\Kolo2\GuestBookApp\bin\Debug\net8.0\GuestBookApp.runtimeconfig.json
+G:\Kolo2\GuestBookApp\bin\Debug\net8.0\GuestBookApp.dll
+G:\Kolo2\GuestBookApp\bin\Debug\net8.0\GuestBookApp.pdb
+G:\Kolo2\GuestBookApp\obj\Debug\net8.0\GuestBookApp.GeneratedMSBuildEditorConfig.editorconfig
+G:\Kolo2\GuestBookApp\obj\Debug\net8.0\GuestBookApp.AssemblyInfoInputs.cache
+G:\Kolo2\GuestBookApp\obj\Debug\net8.0\GuestBookApp.AssemblyInfo.cs
+G:\Kolo2\GuestBookApp\obj\Debug\net8.0\GuestBookApp.csproj.CoreCompileInputs.cache
+G:\Kolo2\GuestBookApp\obj\Debug\net8.0\GuestBookApp.dll
+G:\Kolo2\GuestBookApp\obj\Debug\net8.0\refint\GuestBookApp.dll
+G:\Kolo2\GuestBookApp\obj\Debug\net8.0\GuestBookApp.pdb
+G:\Kolo2\GuestBookApp\obj\Debug\net8.0\GuestBookApp.genruntimeconfig.cache
+G:\Kolo2\GuestBookApp\obj\Debug\net8.0\ref\GuestBookApp.dll
